@@ -10,3 +10,4 @@ SELECT *
 FROM Customers
 WHERE CustomerName LIKE '[a-f]%';
 ```
+![My SQL SELECT Select](./

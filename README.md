@@ -4,7 +4,7 @@ SQL Class
 ## SQL
 ![SQL](./SQL.jpg)
 
-### My SQL SELECT Select
+### My SQL SELECT Statement
 ```
 SELECT * 
 FROM Customers
